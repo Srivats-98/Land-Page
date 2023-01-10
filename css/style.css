@@ -1,0 +1,291 @@
+
+#Our-mission {
+    background-color: #ffffff;
+    margin: 40px;
+}
+
+#Our-mission h4 {
+    font-family: Arial;
+    font-size: 25px;
+    color: #6a6a6a;
+}
+
+#Our-mission .division {
+    width: 14%;
+    background-color: #f3f3f4;
+    margin: 1% auto 2%;
+    height: 2px;
+}
+
+#Project {
+    background-color: #f7f7f7;
+    padding-top: 75px;
+    padding-bottom: 70px;
+    text-align: center;
+
+
+}
+
+#Project h3 {
+    text-transform: uppercase;
+    color: #696969;
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+
+#Project .division {
+    width: 14%;
+    background-color: #f3f3f4;
+    margin: 1% auto 2%;
+    height: 2px;
+}
+
+#Project h5 {
+    padding-top: 30px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 14px;
+    color: #6e6e6e;
+}
+
+#Testimonial h2 {
+    font-size: 25px;
+    font-family: Arial;
+    text-transform: uppercase;
+    color: #696969;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+#Testimonial {
+    background-color: #ffffff;
+}
+
+
+
+#Testimonial .division {
+    width: 14%;
+    background-color: #f3f3f4;
+    margin: 1% auto 2%;
+    height: 2px;
+}
+
+
+.watch {
+    top: 35%;
+    left: 57%;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Roboto Condensed;
+    text-transform: uppercase;
+}
+
+.story {
+    height: 9%;
+    width: 23%;
+    background-color: #000000;
+    top: 42%;
+    left: 66%;
+    font-size: 35px;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 0.3% 0.3% 0% 1%;
+}
+
+.green-arrow {
+    height: 45%;
+    width: 7%;
+    vertical-align: baseline;
+}
+
+.testimonial-text {
+    background: #f8f8f8;
+    padding: 13%;
+    font-size: 14px;
+    font-family: Arial;
+    font-style: italic;
+    color: #858585;
+}
+
+.about-header {
+    height: 5%;
+    background-color: #000000;
+}
+
+.about-header-nav-button-pane {
+    font-weight: 600;
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-header-nav-button,
+.donate-now-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.about-header-nav-button:hover {
+    color: #ffee01;
+}
+
+.top-header {
+    height: 1%;
+    background-color: #ffee01;
+}
+
+.top-header-nav-button-pane {
+    font-size: 10px;
+}
+
+.top-header-nav-button {
+    padding: 0.1%;
+    color: #000000;
+    text-decoration: none;
+    padding-left: 0.3%;
+    padding-right: 0.3%;
+}
+
+.top-header-nav-button:hover {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.top-header-nav-button-image-link {
+    text-decoration: none;
+}
+
+.top-header-nav-button-image {
+    padding: 0.1%;
+    height: 15px;
+    width: 15px;
+}
+
+.association-image {
+    position: absolute;
+    height: 18%;
+    width: 6%;
+    left: 15%;
+}
+
+.donate-now-div {
+    height: 8%;
+    width: 12%;
+    background-color: red;
+    color: #ffffff;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0.6%;
+    position: absolute;
+    transform: rotate(270deg);
+    margin-left: -4%;
+    top: 50%;
+}
+
+.donate-now-link:hover {
+    color: #ffffff;
+}
+
+.testimonial-container {
+    display: flex;
+}
+
+.testimonial-image-container {
+    padding: 0% 13% 13% 13%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#Newsletter {
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+#Newsletter h4 {
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    color: #4f4f4f;
+    text-transform: uppercase;
+}
+
+#Newsletter .division {
+    width: 20%;
+    background-color: #f3f3f4;
+    margin: 1% auto 2%;
+    height: 2px;
+}
+
+
+.input-field-row {
+    width: 26%;
+    text-align: center;
+    margin-left: 37%;
+    background-color: #f8f8f8;
+    display: flex;
+
+}
+
+#Newsletter .form-control {
+    text-align: center;
+}
+
+.testimonial-image-text-name {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.testimonial-image-text-position {
+    font-family: Arial;
+    font-size: 10px;
+    color: #858585;     
+}
+
+.move-arrow {
+    height: fit-content;
+   margin-top: 40%;
+    padding: 20px;
+}
+
+
+#Footer {
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 10px;
+    padding-top: 25px;
+}
+
+.footer-path {
+    font-size: 18px;
+    font-family: Arial;
+    
+ 
+}
+
+#Footer .footer-nav {
+    padding: 1%;
+    color: #02507c;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.people-rights{
+    font-size: 12px;
+    color: #707070;
+    padding-top: 20px;
+}
+
+
+.sr-only{
+    color: #000000;
+}
+
+.testimonial-carousel {
+    display: flex;
+}
+ 
